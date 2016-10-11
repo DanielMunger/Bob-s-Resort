@@ -13,12 +13,23 @@ header, footer {
     color: #3b3a30;
     font-size: 100px;
   }
+}
+#image{
+  position: absolute;
+  left:0;
+  top:0;
+  background: transparent;
+}
+
+p{
+  text-align: center;
+}
+
 h1{
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   color: #3b3a30;
   font-size: 100px;
-
 }
 
 h2{
